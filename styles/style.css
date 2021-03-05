@@ -67,7 +67,7 @@ position: absolute;
 right: 0;
 bottom: 0;
 z-index: 1;
-;}
+}
 
 .header__square-pic {
   height: 568px;
@@ -110,7 +110,7 @@ display: flex;
 flex-direction: column;
 line-height: 34px;
 font-size: 24px;
-font-weight: normal
+font-weight: normal;
 }
 
 .paragraph__margin {
@@ -220,7 +220,7 @@ font-weight: normal;
 
 .feynman__link{
   position: absolute;
- right: 48px; 
+ right: 48px;
  top: 50%;
  line-height: 51px;
  font-size: 36px;
