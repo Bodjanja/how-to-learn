@@ -41,8 +41,8 @@
 
 .header__subtitle {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   width: 388px;
   line-height: 25px;
   font-size: 18px;
@@ -109,8 +109,8 @@
 
 .two-columns__paragraph {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   padding: 0;
   display: flex;
   flex-direction: row;
@@ -125,8 +125,8 @@
 
 .two-columns__span-accent {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   padding: 0;
   line-height: 34px;
   font-size: 24px;
@@ -143,8 +143,8 @@
 
 .section-title {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   padding: 0;
   width: 60%;
   margin-bottom: 20px;
@@ -157,8 +157,8 @@
 
 .section-subtitle {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   padding: 0;
   width: 60%;
   display: flex;
@@ -183,8 +183,8 @@
 
 .table__heading {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   padding: 0;
   line-height: 1.15;
   font-size: 24px;
@@ -193,8 +193,8 @@
 
 .table__text {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   padding: 0;
   line-height: 1.2;
   font-size: 18px;
@@ -213,7 +213,6 @@
   justify-content: flex-start;
   align-items: center;
   flex-direction: column;
-
   background-image: url(../images/feynman.png);
   background-size: 867px 637px;
   background-repeat: no-repeat;
@@ -222,8 +221,8 @@
 
 .feynman__title {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   padding: 0;
   width: 648px;
   line-height: 1.15;
@@ -235,8 +234,8 @@
 
 .feynman__subtitle {
   margin: 0;
-  font-size: 100%;
-  font-weight: normal;
+  /* font-size: 100%;
+  font-weight: normal; */
   padding: 0;
   line-height: 51px;
   font-size: 36px;
