@@ -1,14 +1,11 @@
 .header__link {
-    z-index: 2;
-    color: #2f80ed;
-    text-decoration: none;
-    opacity: 1;
-    transition: opacity .3s linear;
-  }
+  z-index: 2;
+  color: #2f80ed;
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity .3s linear;
+}
 
-.header__link:hover{
-  transition-property: opacity;
-  transition-duration: .3s;
-  transition-timing-function: linear;
+.header__link:hover {
   opacity: .6;
 }

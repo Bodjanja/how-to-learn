@@ -12,8 +12,5 @@
   }
 
   .feynman__link:hover{
-    transition-property: opacity;
-    transition-duration: .3s;
-    transition-timing-function: linear;
     opacity: .6;
   }
